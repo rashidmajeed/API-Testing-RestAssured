@@ -9,9 +9,9 @@
 
 # Go to maven repository and install dependencies for Restassured, testNG, schema validator etc...
 
-# For this presentation a API project with nodejs is used. Go th Repo and download it. 
-This application is specially designed with status codes so that can be useful for API automation learning.
-Install dependencies with npm install and then run with npm start.
+# For this presentation an API project with nodejs is used. Go th Repo and download it. 
+# This application is specially designed with status codes so that it can be helpful.
+# Install dependencies with npm install and then run with npm start.
 
 # Once API project is running then very first step to check API's using Postman or insomnia or using any tool.
 
